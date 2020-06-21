@@ -1,3 +1,4 @@
+﻿
 ﻿git配置ssh
 https://www.cnblogs.com/yuanchaoyong/p/9976895.html
 Git is a distributed version control system.
@@ -6,4 +7,6 @@ Git is free software distributed under the GPL.
 
 private void set(){
 a=a;
+a=b;
 }
+
