@@ -1,13 +1,5 @@
-﻿
-﻿git配置ssh
-https://www.cnblogs.com/yuanchaoyong/p/9976895.html
+$ cat readme.txt 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
-
-
-private void set(){
-a=a;
-a=f;
-}
-
+Git tracks changes of files
