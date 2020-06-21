@@ -7,7 +7,7 @@ Git has a mutable index called stage.
 
 
 private void set(){
-a=b;
+a=d;
 a=f;
 }
 
